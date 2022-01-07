@@ -14,14 +14,6 @@ https://simpleicons.org/?q=ethereum
 
 <div style="display: inline_block"><br>
 
-<h2>Research & Development</h2>
-  
-  <img align="right" alt="Andre-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/2480/1*8jI3wB41kYxP-Wo5rO_Yvg.gif">
-
-- 🔭 I’m currently Entrepreneur on [BioInformatica Labs](https://BioInformaticaLabs.com)
-- 🌱 I’m Full Cycle Developer &  [Software Engineering](https://https://mydevelopmentzone.ml/)
-- 🌱 I’m currently learning [Data Science](https://mydatasciencejourney.ml/)
-- 👯 I’m looking to collaborate on [Blockchain & DeFi Projects](https://blockchain-demo.tk/)
 
   <br></br>
 
