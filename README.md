@@ -7,9 +7,9 @@ https://simpleicons.org/?q=ethereum
  -->
 
 <div align="center">
-  <a href="https://github.com/viannaandreBR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viannaandreBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viannaandreBR&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/GitLinuxDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitLinuxDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitLinuxDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -202,7 +202,7 @@ https://simpleicons.org/?q=ethereum
 
 - 🤔 &mdash; Passionate on Startup culture, “Move Fast and Fix Things", with expertise in Software Architecture, Microservices Architecture, Design, API Development, Artificial Inteligente and Blockchain. <br> 
 
-<!-- - 😎 &mdash; Actual Year. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=viannaandreBR&show_icons=true) -->
+<!-- - 😎 &mdash; Actual Year. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=GitLinuxDev&show_icons=true) -->
 
 <br></br>
 
