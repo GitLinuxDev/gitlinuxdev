@@ -129,60 +129,7 @@ https://simpleicons.org/?q=ethereum
  
    <br></br>
   
-
-  <h2>Blockchain & DeFi</h2>
-    <img align="center" alt="bitcoin"height="30"  width="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" />
-    <img align="center" alt="ethereum" height="30" width="30"  src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp" />
-
-    <img align="center" alt="ganache" height="30" width="30" src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" />
-
-    <img align="center" alt="truffle" height="30" width="30"  src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" />
-
-    
-    <img align="center" alt="open-zeppelin" height="30" width="40" src="https://media-exp1.licdn.com/dms/image/C560BAQH1_7Ozb7cOKw/company-logo_400_400/0/1637621250790?e=1647475200&v=beta&t=N60fvz0-0v5q9ahKGzNpDS_zA43uSeJekDVumCdXr0Q" />
-
-    <img align="center" alt="moralis" height="30" width="40" src="https://moralis.io/wp-content/uploads/2021/07/bigicon_hero2.svg" />
-
-    <img align="center" alt="binance" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Binance_Logo.svg/2048px-Binance_Logo.svg.png" />
-
-    <img align="center" alt="coinmarketcap" height="30" width="30" src="https://s2.coinmarketcap.com/static/img/coins/200x200/3628.png" />  
-
-    <img align="center" alt="hyperledger" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Hyperledger_diagram.svg" />  
-
-    <img align="center" alt="qtum-logo" height="30" width="30" src="https://seeklogo.com/images/Q/qtum-logo-DCA377ECFF-seeklogo.com.png" />  
-
-
-    <img align="center" alt="infura" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnhMH7oM2b-aIlFBJFURNM9k26QCYAhAArI_dqVkwNiyWG79GpfQPFysyfa8XcYDhX0-k&usqp=CAU" />
-
-    <img align="center" alt="solidity" height="30" width="30" src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" />  
-
-    <img align="center" alt="brownie" height="30" width="30" src="https://avatars.githubusercontent.com/u/55654090?s=280&v=4" />
-
-    <img align="center" alt="iota" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/ethos.svg" />  
-
-    <img align="center" alt="cardano" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png" />  
-
-
-   <img align="center" alt="synthetix" height="30" width="30" src="https://seeklogo.com/images/S/synthetix-snx-logo-2E4D0D8BED-seeklogo.com.png" /> 
-
-   <img align="center" alt="uniswapp" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Uniswap_Logo.svg/1026px-Uniswap_Logo.svg.png" /> 
-
-   <img align="center" alt="pancake" height="30" width="30" src="https://seeklogo.com/images/P/pancakeswap-cake-logo-855C872947-seeklogo.com.png" /> 
-
-   <img align="center" alt="maker" height="30" width="30" src="https://cryptologos.cc/logos/maker-mkr-logo.png" /> 
-
-   <img align="center" alt="curve" height="30" width="30" src="https://curve.fi/logo.png" /> 
-
-  <img align="center" alt="convex" height="30" width="30" src="https://yourcryptolibrary.com/wp-content/uploads/2021/10/convex-logo.png" /> 
-
-   <img align="center" alt="aave" height="30" width="30" src="https://storage.googleapis.com/holdex-public/projects/ethlend/aave-logo-icon-ghost.png" /> 
-
-   <img align="center" alt="compound" height="30" width="30" src="https://thumbs.dreamstime.com/b/compound-comp-token-symbol-cryptocurrency-logo-coin-icon-isolated-white-background-vector-illustration-219784429.jpg" /> 
-
-   <img align="center" alt="sushi-swapp" height="30" width="30" src="https://cryptologos.cc/logos/sushiswap-sushi-logo.png" /> 
-
-   <img align="center" alt="dydx" height="30" width="30" src="https://dydx.exchange/icon.svg" /> 
-    
+  
 
 </div>
 
